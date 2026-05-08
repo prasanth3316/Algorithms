@@ -33,7 +33,7 @@
 | [Vjudge](https://vjudge.net) | Virtual judge aggregating 100+ OJs into one place |
 | [CSES Problem Set](https://cses.fi/problemset) | Curated 300-problem set covering all core CP topics |
 | [Library Checker](https://judge.yosupo.jp) | Benchmarks for advanced algorithms and data structures |
-| **📚 BOOKS WITH LINKS** | |
+| ** BOOKS WITH LINKS** | |
 | [Competitive Programming 4 – Halim (CP4)](https://cpbook.net) | The definitive CP textbook, covers everything from basics to advanced |
 | [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305) | Gold standard algorithms textbook used in universities worldwide |
 | [Algorithm Design – Kleinberg & Tardos](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003579) | Deep coverage of greedy, DP, network flow, NP-hardness |
