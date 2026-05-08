@@ -1,6 +1,12 @@
 # My Journey: From Hello World to Competitive Programming
 
-A personal note from the maintainer. This is roughly the order I followed and what I'd recommend to someone starting out today.
+I am Prasanth, 
+Solved more than 1400 Problems on LC ( I liked LC features like Daily Streak and LC tshirt )
+I have rating of 1890+ on LC
+I am part of University of Cincinnati ICPC Club (2024-25)
+
+
+This is roughly the order I followed and what I'd recommend to someone starting out today.
 
 A small disclaimer before I start: **I am not really a competitive programmer.** I prepared all of this mainly for interviews during my bachelor's. But the foundation is the same — so if your goal is cracking interviews and not turning red on Codeforces, this path still works for you.
 
@@ -111,4 +117,10 @@ You don't need to do all of this at once. Pick **one daily habit and one weekly 
 
 ---
 
-*This is my path. Yours will look different — and that's the point. Use this as a rough map, not a strict schedule.*
+
+## Some Hacks
+- **If you want to solve more questions on LC - DO HASHMAP, DFS and BFS related questions - You will cover 500+ Questions on these topics**
+- LC is easy , If you want to learn more do CODEFORCES ( IF you want to do CP more ) 
+
+
+
