@@ -5,6 +5,10 @@ I am Prasanth,
 - I have rating of 1890+ on LC ( Knight )
 - I am part of University of Cincinnati ICPC Club (2024-25)
 
+# Do you know how Second Method for Binary Search ? 
+# Do you know Matrix Exponentiation Application in Graphs ? 
+# Do you know Various Multiplication Algorithms ? 
+- Look these in my Fav books 
 
 This is roughly the order I followed and what I'd recommend to someone starting out today.
 
@@ -122,5 +126,52 @@ You don't need to do all of this at once. Pick **one daily habit and one weekly 
 - **If you want to solve more questions on LC - DO HASHMAP, DFS and BFS related questions - You will cover 500+ Questions on these topics**
 - LC is easy , If you want to learn more do CODEFORCES ( IF you want to do CP more ) 
 
+##  A Personal Note — My Own Journey Through CP
 
+
+---
+
+### Platforms I Used
+
+| Platform | My Experience |
+|----------|---------------|
+| [HackerRank](https://www.hackerrank.com) | My entry point into structured problem solving — used extensively during **Bachelor's 1st year** to build foundational confidence in DSA and language basics. |
+| [LeetCode](https://leetcode.com) | My primary platform through **Bachelor's 4th year** — invaluable for interview preparation, weekly contests, and reinforcing problem-solving patterns under time pressure. |
+| [CodeChef](https://codechef.com) | Used consistently across my undergraduate years — the Long Challenge format was particularly useful for developing deeper problem intuition without the stress of short windows. |
+| [Kattis](https://open.kattis.com) | My introduction to Kattis was through the **University of Cincinnati ICPC Club** — a memorable first encounter with team-style, ICPC-format problem solving. |
+| [USACO Guide](https://usaco.guide) | Discovered and worked through this resource **after completing my Bachelor's degree** — its structured Bronze-to-Platinum roadmap is among the most disciplined learning paths available for free. |
+| [CSES Problem Set](https://cses.fi/problemset) | Used actively **during my Master's studies** — the problem set is remarkably well-curated and covers every core CP topic with precision. Highly recommended for graduate-level self-study. |
+
+---
+
+### Books I Personally Recommend
+
+| Book | My Take |
+|------|---------|
+| [Competitive Programming 4 – Halim (CP4)](https://cpbook.net) | Read during my **Bachelor's years**. The early chapters are particularly significant — they lay the philosophical and structural groundwork for understanding what competitive programming truly is. The content may carry some age, but its foundational value remains undiminished. **My strong recommendation: do not skip the first chapters.** |
+| [Guide to Competitive Programming – Laaksonen (CSES)](https://cses.fi/book/book.pdf) | This is my **personal favourite**. Concise, modern, and exceptionally well-organized. I like all sections as this Book is well organized to revise easily. I like segment tree and Fenwick tree sections so much|
+| [Algorithms – Jeff Erickson (Free)](http://jeffe.cs.illinois.edu/teaching/algorithms) | My **favourite algorithms book** — freely available, academically rigorous, and written with rare clarity. Strong Connected Components and others graph related sections are outstanding. This book deserves a place on every serious programmer's reading list. |
+
+
+-- You know Method 2 of Binary search ? - Want to learn - Study Guide to Competive Programming 
+
+---
+
+### Courses
+
+I explored several courses on **Coursera** during my studies — particularly in algorithms and data structures. While I do not recall every title, the Coursera catalogue (notably offerings from Princeton and UC San Diego) provided strong structured exposure to algorithmic theory alongside practical contest preparation.
+
+---
+
+### Contests I Participated In
+
+| Contest | Notes |
+|---------|-------|
+| [TCS CodeVita](https://www.tcscodevita.com) | Participated in **all four years of my Bachelor's degree** — a consistent annual commitment that sharpened my ability to perform under real contest conditions. |
+| [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) | Participated once — a well-designed contest with problems that reward algorithmic thinking at every skill level. |
+| [HackWithInfy – Infosys](https://www.infosys.com/careers/hackwithinfy.html) | Participated once — a valuable experience in applied problem solving under a corporate contest format. |
+| [LeetCode Weekly / Biweekly Contests](https://leetcode.com/contest) | Participated regularly — the contest environment on LeetCode is one of the most accessible ways to experience rated competition. |
+| [CodeChef Contests](https://codechef.com/contests) | Participated regularly across undergraduate years — the variety of contest formats on CodeChef made it a reliable training ground. |
+
+---
 
