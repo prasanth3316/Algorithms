@@ -1,9 +1,9 @@
 # My Journey: From Hello World to Competitive Programming
 
 I am Prasanth, 
-Solved more than 1400 Problems on LC ( I liked LC features like Daily Streak and LC tshirt )
-I have rating of 1890+ on LC
-I am part of University of Cincinnati ICPC Club (2024-25)
+- Solved more than 1400 Problems on LC ( I liked LC features like Daily Streak and LC tshirt )
+- I have rating of 1890+ on LC ( Knight )
+- I am part of University of Cincinnati ICPC Club (2024-25)
 
 
 This is roughly the order I followed and what I'd recommend to someone starting out today.
