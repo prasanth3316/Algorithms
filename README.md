@@ -4,11 +4,17 @@ I am Prasanth,
 - Solved more than 1400 Problems on LC ( I liked LC features like Daily Streak and LC tshirt )
 - I have rating of 1890+ on LC ( Knight )
 - I am part of University of Cincinnati ICPC Club (2024-25)
+---
+  
+Do you know how Second Method for Binary Search ? 
 
-# Do you know how Second Method for Binary Search ? 
-# Do you know Matrix Exponentiation Application in Graphs ? 
-# Do you know Various Multiplication Algorithms ? 
-- Look these in my Fav books 
+Do you know Matrix Exponentiation Application in Graphs ? 
+
+Do you know Various Multiplication Algorithms ? 
+
+Look these in ' Books I Personally Recommend ' section 
+
+---
 
 This is roughly the order I followed and what I'd recommend to someone starting out today.
 
